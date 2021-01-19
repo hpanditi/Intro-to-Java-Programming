@@ -10,7 +10,7 @@ class Hello
      */
     public void go()
     {
-        System.out.println("Hello, world");
+        System.out.println("Hello, world. This is Hemanth's first program.");
     }
     
     /**
