@@ -19,5 +19,7 @@ public class TextWriterDriver {
         System.out.println("The next line is the display after calling clearTextToDisplay:");
         tw3.display();
         System.out.println("The previous line was the display after calling clearTextToDisplay:");
+        TextWriter tw4=new TextWriter("And this line is from my fourth object.");
+        System.out.println(tw3.getTextToDisplay());
     }
 }
